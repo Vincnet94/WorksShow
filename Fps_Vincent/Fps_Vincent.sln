@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fps_Vincent.CSharp", "Fps_Vincent.CSharp.csproj", "{1DF54336-271D-7A30-EC33-4DF8D6392221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fps_Vincent.CSharp.Editor", "Fps_Vincent.CSharp.Editor.csproj", "{32017EF3-3936-B531-1CB7-B90304E35CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DF54336-271D-7A30-EC33-4DF8D6392221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF54336-271D-7A30-EC33-4DF8D6392221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF54336-271D-7A30-EC33-4DF8D6392221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF54336-271D-7A30-EC33-4DF8D6392221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32017EF3-3936-B531-1CB7-B90304E35CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32017EF3-3936-B531-1CB7-B90304E35CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32017EF3-3936-B531-1CB7-B90304E35CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32017EF3-3936-B531-1CB7-B90304E35CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
